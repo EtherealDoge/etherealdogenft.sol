@@ -1,6 +1,4 @@
-/**
- *Submitted for verification at BscScan.com on 2023-01-07
-*/
+
 
 //SPDX-License-Identifier: UNLICENSED
 // File: @openzeppelin/contracts/utils/Counters.sol
