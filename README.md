@@ -5,3 +5,5 @@ Behold the Ethereal Doge Genesis collection, a celestial assemblage of 2500 limi
 👉125 BNB in lottery giveaways
 
 👉10% of revenue generated from upcoming utilities is distributed to NFT holders. The rarer the NFT you hold, the bigger percentage you receive.
+
+🌿Mint here: https://nft.etherealdoge.com
